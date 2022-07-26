@@ -1,2 +1,2 @@
-# castle_engine
-Chess Engine in C, following guidance of Bluefever Software
+# Castle Chess Engine
+Chess Engine Project in C, following guidance of Bluefever Software
