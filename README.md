@@ -1,2 +1,2 @@
-# Castle Chess Engine
-Chess Engine Project in C, following guidance of Bluefever Software
+# Kingler Chess Engine
+Chess Engine Project in C++
