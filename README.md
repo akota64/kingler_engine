@@ -1,2 +1,2 @@
 # Kingler Chess Engine
-Chess Engine Project in C++
+Chess Engine Project in C
